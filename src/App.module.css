@@ -1,0 +1,24 @@
+.decrement{
+  width: 100px;
+  height: 100px;
+  font-size: 50px;
+  color: white;
+  background-color: black;
+}
+.increment{
+  width: 100px;
+  height: 100px;
+  font-size: 50px;
+  color: white;
+  background-color: black;
+}
+.span{
+  margin-right: 7px;
+  margin-left: 7px;
+  font-size: 50px;
+  color: white;
+}
+.p{
+  font-size: 30px;
+  color: white;
+}
